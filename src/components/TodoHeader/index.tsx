@@ -5,7 +5,7 @@ export function TodoHeader() {
         <HeaderTodo>
             <div>Contato</div>
             <div>Numero</div>
-            <div>Estado</div>
+            <div>E-mail</div>
             <div>Editar</div>
         </HeaderTodo>
     )
